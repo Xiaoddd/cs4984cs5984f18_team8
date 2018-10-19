@@ -5,29 +5,34 @@ from sklearn.decomposition import PCA
 from sklearn.svm import l1_min_c
 import numpy as np
 import matplotlib.pyplot as plt 
-X = np.load("features1016.npy")
-y = np.genfromtxt('resp.csv', delimiter=',')
+X = np.load("data/features1016.npy")
+y = np.genfromtxt('data/resp.csv', delimiter=',')
 print(y)
 # Zscore
-mean_ = np.mean(X,axis=0)
-std_ = np.std(X, axis=0)
-pos_ = np.where(std_==0)
-X = np.delete(X, pos_, axis=1)
-mean_ = np.delete(mean_, pos_)
-std_ = np.delete(std_, pos_)
-meanMat = np.repeat([mean_],len(y),axis=0)
-stdMat = np.repeat([std_],len(y),axis=0)
-X = np.divide(X-meanMat,stdMat)
-print(X)
-# PCA dimension reduction
-# pca = PCA(n_components=20)
-# pca.fit(X)
-# ratio_ = pca.explained_variance_ratio_
-# print(ratio_)
-# print(np.sum(ratio_))
-# print(len(X))
+def zscore_std(mat):
+    mean_ = np.mean(mat,axis=0)
+    std_ = np.std(mat, axis=0)
+    pos_ = np.where(std_==0)
+    mat = np.delete(mat, pos_, axis=1)
+    mean_ = np.delete(mean_, pos_)
+    std_ = np.delete(std_, pos_)
+    meanMat = np.repeat([mean_],len(y),axis=0)
+    stdMat = np.repeat([std_],len(y),axis=0)
+    return np.divide(mat-meanMat,stdMat)
 
-# X = pca.fit_transform(X)
+# PCA dimension reduction
+def pca_dim_red(mat, n_comp=20):
+    pca = PCA(n_components=n_comp)
+    pca.fit(mat)
+    ratio_ = pca.explained_variance_ratio_
+    print(ratio_)
+    # print(np.sum(ratio_))
+    # print(len(mat))
+    return pca.fit_transform(mat)
+
+X = zscore_std(X)
+X = pca_dim_red(X,20)
+print(X)
 clf = LogisticRegression(penalty='l1', solver='saga',
                                       tol=1e-6, max_iter=int(1e6),
                                       warm_start=True)
