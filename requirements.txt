@@ -1,0 +1,11 @@
+sklearn
+numpy
+matplotlib
+spacy
+nltk
+json
+gensim
+pyLDAvis
+
+# for python 2.x
+pickle
