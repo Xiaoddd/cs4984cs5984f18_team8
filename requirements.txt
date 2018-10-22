@@ -1,11 +1,14 @@
+# for python 2.x
+
 sklearn
 numpy
 matplotlib
-spacy
+spacy==1.9.0 # python -m spacy download en
 nltk
 json
 gensim
 pyLDAvis
-
-# for python 2.x
+chainer
+pandas
+numpy
 pickle

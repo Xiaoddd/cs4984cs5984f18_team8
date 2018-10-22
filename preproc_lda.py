@@ -1,6 +1,7 @@
 import spacy
 spacy.load('en')
 from spacy.lang.en import English
+import numpy as np
 import nltk
 # nltk.download('wordnet')
 from nltk.corpus import wordnet as wn
@@ -56,6 +57,7 @@ if __name__=='__main__':
         sm_corpus.append(record['Sentences'])
     for doc in sm_corpus:
         text_data.append(prepare_text_for_lda(doc))
+    # np.save('preprocessed_corpus_small.npy',text_data)
     # print(text_data[1])
     dictionary = corpora.Dictionary(text_data)
     corpus = [dictionary.doc2bow(text) for text in text_data]
