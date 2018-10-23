@@ -12,3 +12,4 @@ chainer
 pandas
 numpy
 pickle
+bs

@@ -7,8 +7,9 @@ from sklearn.svm import l1_min_c
 import numpy as np
 import matplotlib.pyplot as plt 
 X = np.load("data/features1016.npy")
-y = np.genfromtxt('data/resp.csv', delimiter=',')
-print(y)
+X = np.delete(X,10,0)
+y = np.genfromtxt('data/resp_50.csv', delimiter=',')
+y = np.delete(y,[10,49])
 # Zscore
 def zscore_std(mat):
     mean_ = np.mean(mat,axis=0)
@@ -36,7 +37,7 @@ def pen_logi_reg(covariates, response, penalty='l1'):
     clf = LogisticRegression(penalty='l1', solver='saga', tol=1e-6, max_iter=int(1e6), warm_start=True,fit_intercept=True)
     cvAcc = list()
     coefs_ = list()
-    cs = l1_min_c(covariates, response, loss='log') * np.logspace(0, 1, 16)
+    cs = l1_min_c(covariates, response, loss='log') * np.logspace(0, 2, 16)
     for c in cs:
         clf.set_params(C=c)
         # clf.fit(X, y)
@@ -51,18 +52,19 @@ def pen_logi_reg(covariates, response, penalty='l1'):
     clf.set_params(C=cs.item(pos[0].item(0)))
     clf.fit(covariates,response)
     coefs_ = clf.coef_.ravel().copy()
-    # print(coefs_)
-    # plt.plot(np.arange(len(coefs_)),coefs_)
-    # plt.title('Best coefficients')
-    # # plt.plot(np.log10(cs), cvAcc, marker='o')
-    # plt.show()
+    print(coefs_)
+    plt.plot(np.arange(len(coefs_)),coefs_)
+    plt.title('Best coefficients')
+    # plt.plot(np.log10(cs), cvAcc, marker='o')
+    plt.show()
     return clf, cvAcc
 
 if __name__ == "__main__":
-    X = X[:,[ 6, 18, 21, 22, 26, 29, 31, 37]]
+    # X = X[:,[ 6, 18, 21, 22, 26, 29, 31, 37]]
     X = zscore_std(X)
+    X = X
     # X = pca_dim_red(X,20)
-    mdl,acc = pen_logi_reg(X, y, penalty='l2')
+    mdl,acc = pen_logi_reg(X, y, penalty='l1')
     print(mdl.score(X,y))
     print(acc)
     yhat = mdl.predict(X)
