@@ -90,8 +90,8 @@ def count_frequency_keyword_only(keywords, document):
 
 
 """ CONFIG """
-NoDAPL_file = "data\NoDAPL-top50.json"
-stopwords_file = "data\stopwords_new.txt"
+NoDAPL_file = "data/top100_bigger_corpus.json"
+stopwords_file = "data/stopwords_new.txt"
 stopwords_list = ["'s", '...', '-800', 'mr.', 'de', 'een', '-0800', 'www.senate.gov', "''", "``", "\\n", "'s", "'re", "the"]
 wikipage_link = 'https://en.wikipedia.org/wiki/NODAPL' # 'https://en.wikipedia.org/wiki/Dakota_Access_Pipeline'
 
@@ -101,20 +101,20 @@ test_keywords = ["access", "army", "bakkan", "campaign", "climate", "companies",
                  "dapl", "donation", "drill", "duty", "energy", "fossil", "fuel", "indian", "indigenous", "keystone", "klp",
                  "mission", "missouri", "morton", "movement", "native", "nyemah", "obama", "oil", "nodapl", "patriots",
                  "pipeline","police", "protestor", "protest", "reservation", "resistance", "sacred", "sioux", "supplies", "tribal",
-                 "tribe", "trump", "veteran", "violence", "volunteer", "water"]
+                 "tribe", "trump", "veteran", "violence", "volunteer", "water",'nodapl']
 
 clean = list()
 with open(NoDAPL_file, 'r') as json_data:
     input_data = json.load(json_data)
     for sentence in input_data:
-        print sentence
+        # print sentence
         clean.append(sentence['Sentences'][0])
 json_data.close()
 
 input = list()
 for entry in clean:
     # note: type of "Sentences" value is list in NoDAPL-top50.json
-    print len(entry),entry
+    # print len(entry),entry
     input.append(word_tokenize(entry))
 
 """ STOP WORDS """
@@ -130,12 +130,12 @@ lemmat = nltk.WordNetLemmatizer()
 for i in range(len(input)):
     lemmatizedList.append([lemmat.lemmatize(x, j[0].lower()) if j[0].lower() in ['a', 'n', 'v'] else lemmat.lemmatize(x) for x, j in pos_tag(input[i])])
 
-print len(lemmatizedList), lemmatizedList[0]
+# print len(lemmatizedList), lemmatizedList[0]
 
 cleandata = list()
 for data in lemmatizedList:
     cleandata.append([w for w in data if w.lower() not in stop_words])
-print len(cleandata), cleandata[2]
+# print len(cleandata), cleandata[2]
 
 """ GRAB WIKIPEDIA CONTENT """
 page_response = requests.get(wikipage_link, timeout=5)
@@ -158,16 +158,16 @@ keywords = list()
 words = word_tokenize(json_data.lower())  # countin in lower
 wordsFiltered = []
 for w in words:
-    if w not in stopwords:
+    if w not in stop_words:
         wordsFiltered.append(w)
 
 fd = nltk.FreqDist(wordsFiltered)
 most_freq = fd.most_common()[0:50]
 for words in most_freq:
     keywords.append(words[0])
-print(keywords)
+# print(keywords)
 pp.pprint(most_freq)
-print(len(most_freq))
+# print(len(most_freq))
 
 
 keywords_synsets = list()
@@ -175,7 +175,7 @@ keywords_synsets = list()
 for keyword in keywords:
     keyword_synsets = get_synsets(keyword)
     keywords_synsets.append(keyword_synsets)
-print(keywords_synsets)
+# print(keywords_synsets)
 
 # use dummy data
 ##calculate frequency using generated synsets from keywords
@@ -187,7 +187,7 @@ print(keywords_synsets)
 #     wordFreq[keywords[i]] = freq
 # print wordFreq
 
-print keywords[1], keywords_synsets[1], cleandata[1]
+# print keywords[1], keywords_synsets[1], cleandata[1]
 
 # calculate frequency using provided synsets
 wordFreq = numpy.zeros((len(cleandata), len(keywords)))
@@ -199,5 +199,5 @@ for n in range(len(cleandata)):
 
 print wordFreq
 
-numpy.save("features", wordFreq)
-numpy.savetxt("wordFreq.csv", wordFreq, delimiter=",")
+numpy.save("features_1023", wordFreq)
+numpy.savetxt("wordFreq_1023.csv", wordFreq, delimiter=",")
