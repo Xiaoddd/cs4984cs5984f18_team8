@@ -1,1 +1,0 @@
-Copyright 2014 Blue Mountain Tribe. All Rights Reserved.

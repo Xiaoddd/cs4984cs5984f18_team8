@@ -11,7 +11,7 @@ import os
 def hashhex(s):
     """Returns a heximal formated SHA1 hash of the input string."""
     h = hashlib.sha1()
-    h.update(s)
+    h.update(s.encode())
     return h.hexdigest()
 
 # as each document for NoDAPL data in the JSON file takes multiple lines, so use a different way to extract info
