@@ -1,0 +1,1 @@
+The Army Corps of Engineers on Friday told the leader of the Standing Rock Sioux tribe that the federal lands that protesters are camped on will be closed over safety concerns posed by winter weather . Sign up for our daily email .
