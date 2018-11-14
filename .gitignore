@@ -6,3 +6,4 @@ virtualenv
 /*.pyc
 log/pretrained_model/train/*
 log/pretrained_model/eval/*
+log/pretrained_model/decode_test_400maxenc_4beam_35mindec_120maxdec_ckpt-238410/reference/*
