@@ -30,9 +30,15 @@ and available here:
   }
   </style>
   <script>
+  //create random integer
+  function getRandomInt(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
+ }
 
-  json_fname = "attn_vis_data.json" // file containing the text and the weights
-  json_fname = "attn_vis_data.json" // file containing the text and the weights
+  //json_fname = "attn_vis_data.json" // file containing the text and the weights
+  // file containing the NoDAPL text and the weights
+  //load random NoDAPL files (we created 5 here)
+  json_fname = "/log/pretrained_model/decode/attn_vis_data_nodapl_" + getRandomInt(1,5)+".json"
 
   greenhue = 151
   yellowhue = 56
@@ -203,13 +209,14 @@ and available here:
       <div id="art">
         article goes here
       </div>
-      <h2>Reference summary</h2>
-      <div id="abs">
-        reference summary goes here
-      </div>
+
       <h2>Generated summary (highlighted = high generation probability)</h2>
       <div id="dec">
         generated summary goes here
+      </div>
+      <h2>Reference summary</h2>
+      <div id="abs">
+        reference summary goes here
       </div>
     </div>
   </body>
