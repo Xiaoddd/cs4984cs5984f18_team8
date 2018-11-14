@@ -18,4 +18,9 @@ Please download and unzip [finished_files.zip](https://drive.google.com/uc?id=0B
 
 
 ## Run beam search decoding
-`python pointer-generator/run_summarization.py --mode=decode --data_path=finished_files/chunked/test_* --vocab_path=finished_files/vocab --log_root=log --exp_name=pretrained_model`
+`python pointer-generator/run_summarization.py --mode=decode --data_path=finished_files/chunked/test_* --vocab_path=finished_files/vocab --log_root=log --exp_name=pretrained_model` or
+
+`python pointer-generator/run_summarization.py --mode=decode --data_path=finished_files/chunked/test_* --vocab_path=finished_files/vocab --log_root=log --exp_name=pretrained_model  --max_enc_steps=400 --max_dec_steps=120 --coverage=1 --single_pass=1`
+
+See PGN notes in team drive folder [here](https://docs.google.com/document/d/1NBGj4VNMaDFwaC9hH2kEocSUTVGJ_36x6D7ckX08EXU/).
+
