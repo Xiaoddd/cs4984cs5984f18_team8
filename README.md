@@ -24,3 +24,13 @@ Please download and unzip [finished_files.zip](https://drive.google.com/uc?id=0B
 
 See PGN notes in team drive folder [here](https://docs.google.com/document/d/1NBGj4VNMaDFwaC9hH2kEocSUTVGJ_36x6D7ckX08EXU/).
 
+## Run Attention Visualizer (Attn-vis)
+To run the visualizer, navigate to your root folder of the project (where "attn_vis" and "log" folders are located), then
+
+in Python 2: run `python -m SimpleHTTPServer`
+
+in Python 3: run `python3 -m http.server`
+
+and then open http://localhost:8000/attn_vis/ to view. It random displays an article in each page refresh.
+
+Note: The `SimpleHTTPServer` module has been merged into `http.server` in Python 3.0.
