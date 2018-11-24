@@ -1,0 +1,5 @@
+like masonry column shift , but works .
+values : true , false , undefined .
+moreover check min width of column .
+like masonry column shift , values : true , false , undefined .
+moreover check min width of column .

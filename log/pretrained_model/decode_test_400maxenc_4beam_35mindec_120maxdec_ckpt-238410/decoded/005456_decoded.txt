@@ -1,0 +1,4 @@
+in order to use sutori , you must enable javascript in your browser .
+you can find instructions on how to do this here .
+this has better performance .
+this has better performance .

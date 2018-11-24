@@ -1,0 +1,3 @@
+stigmergy is a mechanism of indirect coordination between agents or actions .
+the principle is that the trace left in the environment by an action stimulates the performance of a next action .
+if the world is to move away from representation and allow all voices to be heard , we need to find methods of coherent , apparently systematic activity .

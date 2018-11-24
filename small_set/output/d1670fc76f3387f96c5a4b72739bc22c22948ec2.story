@@ -1,0 +1,1 @@
+I now live on a small island in the middle of the Pacific ocean, on land that was stolen more recently, from the Hawaiians. I am addict, struggling to kick the habit of fossil fuel. This work is licensed under a Creative Commons Attribution 4.0 International License. Bookmark the permalink. but there was an error posting your comment.

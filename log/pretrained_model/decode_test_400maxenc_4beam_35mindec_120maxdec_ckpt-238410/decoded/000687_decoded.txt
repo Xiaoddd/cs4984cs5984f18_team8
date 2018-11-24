@@ -1,0 +1,3 @@
+hackers have been breaking into insecure websites and inserting javascript that waits for chrome browsers to be referred to the sites via search engines .
+the script then inserts unrecognized characters that break the font rendering on the webpage , which makes all text unreadable .
+this is according to research conducted by the security firm proofpoint .

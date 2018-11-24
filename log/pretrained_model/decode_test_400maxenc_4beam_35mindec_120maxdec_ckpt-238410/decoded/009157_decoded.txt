@@ -1,0 +1,6 @@
+error occurred in the upload of configuration error .
+file is not an image of pixels .
+file is empty .
+file is not an image .
+file is empty .
+was a configuration error .
