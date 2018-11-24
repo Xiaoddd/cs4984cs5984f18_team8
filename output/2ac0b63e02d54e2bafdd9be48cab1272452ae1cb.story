@@ -1,0 +1,1 @@
+Wells Fargo is a key lender to the project. Divestment will be completed as soon as is reasonably possible. Staff will issue an RFP for banking services as soon as it is practical. Finance staff will return to Council with recommendations on a divestment strategy at its February 28 meeting.

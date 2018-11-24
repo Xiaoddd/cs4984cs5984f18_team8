@@ -1,0 +1,1 @@
+All rights reserved. This material may not be published, broadcast, rewritten, or distributed. KTXS ABC Abilene and KTXE ABC San Angelo offer local and national news reporting, sports, and weather forecasts to viewers in central Texas, including Sweetwater, Winters, Ballinger, Cisco, Colorado City, Big Spring, and Grape Creek, Texas.

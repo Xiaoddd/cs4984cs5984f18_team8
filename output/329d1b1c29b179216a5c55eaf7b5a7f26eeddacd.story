@@ -1,0 +1,1 @@
+Federal Judge Daniel Hovland rejected the request saying that the National Lawyers Guild did not follow rule 65 of the Federal Rules of Civil Procedure, which requires that efforts were made to give notice of legal action to the defendant or give reason why a notice should not be required.

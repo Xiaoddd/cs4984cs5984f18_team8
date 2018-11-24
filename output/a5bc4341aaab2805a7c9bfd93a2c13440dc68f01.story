@@ -1,0 +1,1 @@
+Trina Roache APTN National News Talks around pipelines continued Thursday at the Assembly of First Nations special gathering in Gatineau, Que. More chiefs signed the newly formed treaty alliance. The group is gearing up to fight against pipelines across the country.

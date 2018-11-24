@@ -1,0 +1,1 @@
+Auch in Kanada hat sich viel bewegt. Menschen ihre Stimme erhoben hatten. Mehr Informationen Bottled Life. 16. August 2016. 14. Juli 2017. 28. Februar 2017. Bitte aktivieren Sie Javascript oder versuchen Sie es noch einmal mit einem anderen Browser, der Javascript erlaubt.

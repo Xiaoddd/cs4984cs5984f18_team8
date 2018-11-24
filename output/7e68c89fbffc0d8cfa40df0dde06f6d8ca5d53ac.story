@@ -1,0 +1,1 @@
+They're available for your use, to print out and fill in your own senators or congresspeople, and to address the causes that mean the most to you. I'm hoping to add more cards as I go, but please feel free in the meantime to use the blank cards to address the other important causes. For references for numbers and scripts, this is an excellent resource.

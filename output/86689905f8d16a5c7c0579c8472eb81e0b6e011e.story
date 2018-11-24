@@ -1,0 +1,1 @@
+This is due to newswire licensing terms. All rights reserved.

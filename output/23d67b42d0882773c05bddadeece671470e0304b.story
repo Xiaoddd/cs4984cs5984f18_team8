@@ -1,0 +1,1 @@
+Those statements are true. Share this: Twitter Facebook Google LinkedIn Reddit Tumblr Related Rob Port Rob Port is the editor of SayAnythingBlog.com, a columnist for the Forum News Service, and the host of the Rob (Re)Port on Fargo-based WDAY AM970 from noon-2pm weekdays. but there was an error posting your comment.

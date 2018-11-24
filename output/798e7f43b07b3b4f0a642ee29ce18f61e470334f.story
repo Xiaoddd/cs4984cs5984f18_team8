@@ -1,0 +1,1 @@
+Several indigenous groups have also voiced their opposition, though there is broad support in British Columbia outside the two urban centres. We are committed to maintaining a lively but civil forum for discussion, so we ask you to avoid personal attacks, and please keep your comments relevant and respectful. We are using Facebook commenting.

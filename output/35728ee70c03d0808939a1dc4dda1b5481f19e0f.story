@@ -1,0 +1,1 @@
+Facebook Twitter Pinterest Jamie Dimon. Facebook Twitter Pinterest Lloyd Blankfein. The bank said this was due to his move to a new long-term incentive plan, which was recorded differently by Equilar than his previous bonus awards. Please choose your username under which you would like all your comments to show up. You can only set your username once.

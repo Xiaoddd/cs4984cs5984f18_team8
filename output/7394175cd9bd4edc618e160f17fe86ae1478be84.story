@@ -1,0 +1,1 @@
+Get Today in Politics in your inbox: A digest of the top political stories from the Globe, sent to your inbox Monday-Friday. On Tuesday, Trump told The New York Times he was not required to place boundaries between his business and his administration. Trump will be inaugurated Jan. 20. Real journalism. Subscribe to The Boston Globe today.

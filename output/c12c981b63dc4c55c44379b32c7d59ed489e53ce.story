@@ -1,0 +1,1 @@
+Organizers are optimistic that banks in other countries will soon follow suit. Supporters of the water protectors in North Dakota can find and join a solidarity action here. We gather the news and films as we search the web and present them to our viewers. We adhere to all copyright laws and honour the wishes of the producers.

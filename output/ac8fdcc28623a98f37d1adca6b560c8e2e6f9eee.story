@@ -1,0 +1,1 @@
+The easement was needed for Energy Transfer Partners to complete work on the last pipeline portion located under Lake Oahe. Here's our Cookie Policy. How to report offensive comments Notice on Racial Discrimination.

@@ -1,0 +1,1 @@
+For all other pages the header tag is sending the pageview.

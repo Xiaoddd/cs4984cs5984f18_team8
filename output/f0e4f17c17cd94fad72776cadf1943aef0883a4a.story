@@ -1,0 +1,1 @@
+For example, as Vulture reports, when he was honored with a Best Supporting Actor award last night by the National Board Of Review for his work in Hell Or High Water, he used the opportunity to stand in solidarity with the protesters at Standing Rock Indian Reservation in the Dakotas. We are working to restore service.

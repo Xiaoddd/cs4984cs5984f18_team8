@@ -1,0 +1,1 @@
+Important Information About Citi Balance Transfer Offers You cannot transfer balances from other accounts issued by Citibank, N.A. or its affiliates. Please refer to the information below for a list of Citi products and affiliates. This list is subject to change and may not reflect all Citi Products and affiliates.

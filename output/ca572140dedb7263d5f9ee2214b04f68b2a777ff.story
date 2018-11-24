@@ -1,0 +1,1 @@
+Yessenia Funes Apr 7, 2017 11:14AM EDT A demonstrator protests inside a Wells Fargo Bank branch November 17, 2011, in Portland, Oregon. In order not to debate which corporations to choose, the city decided to end investments in all corporations. is published by Race Forward, a national organization that advances racial justice through research, media and practice.

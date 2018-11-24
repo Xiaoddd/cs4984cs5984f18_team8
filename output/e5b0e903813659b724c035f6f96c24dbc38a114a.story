@@ -1,0 +1,1 @@
+Well, no, that's...that's racism. Then I read the piece & saw it's some unknown corporate shill. Not on tribal land. Over 30 pipelines already cross river. Absolute lies.

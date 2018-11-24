@@ -1,0 +1,1 @@
+The three companies in question are Energy Transfer Partners, Sunoco Logistics and Philips 66. The U.S. Department of the Army on Feb. 7, 2017, announced that it intends to grant the final permit for the pipeline. Nordea has sought a dialogue with the three companies behind the pipeline about an alternative route. The companies have declined any form of dialogue with Nordea.

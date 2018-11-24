@@ -1,0 +1,1 @@
+Next came the snow, which is piling up across the camp as I write.

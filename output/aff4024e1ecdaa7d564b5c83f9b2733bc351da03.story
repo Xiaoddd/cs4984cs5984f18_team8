@@ -1,0 +1,1 @@
+Bourbon (2321 18th St. NW) is scheduled to host a benefit event this Sunday, Dec. 11, from 7 p.m. to 2 a.m., according to a Facebook event post. All Rights Reserved. Site design by Brave UX. Coding by 10up. IT services by Envescent.

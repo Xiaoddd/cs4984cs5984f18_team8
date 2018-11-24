@@ -1,0 +1,1 @@
+But knowing your rights is the most powerful weapon you have against police abuse. Read on to learn what you need to know before heading out to exercise your constitutionally protected right to protest. Learn more about these two components of the ACLU.

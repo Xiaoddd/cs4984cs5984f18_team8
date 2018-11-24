@@ -1,0 +1,1 @@
+Instructions for signing up and claiming your comment history are located here. Updated rules for commenting are here. View the discussion thread. I don't care. It quickly fell apart. All rights reserved.

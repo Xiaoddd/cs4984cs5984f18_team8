@@ -1,0 +1,1 @@
+The see-through concrete shields an array of solar panels of two sizes. Beneath the solar panels is a layer that will keep them isolated from the damp ground. The new solar highway is expected to one day be equipped with the same features. Solar Roads Around the World Outside of China, solar roads are nothing new.

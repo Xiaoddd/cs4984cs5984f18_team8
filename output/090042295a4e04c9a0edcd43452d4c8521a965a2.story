@@ -1,0 +1,1 @@
+Woodley spent Thanksgiving with water protectors at Standing Rock and made a video to remind us that the Dakota Access Pipeline is still an issue, especially considering the history of Thanksgiving.

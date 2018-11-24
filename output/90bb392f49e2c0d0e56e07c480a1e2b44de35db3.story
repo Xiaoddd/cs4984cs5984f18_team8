@@ -1,0 +1,1 @@
+None. The tribe, anti-pipeline activists and even human rights organizations have criticized the tactics, especially spraying water on protesters while temperatures were below freezing. Sign up for our daily email.

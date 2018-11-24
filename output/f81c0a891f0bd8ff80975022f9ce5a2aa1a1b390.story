@@ -1,0 +1,1 @@
+One woman's arm was badly damaged in an explosion earlier this week. Nevermind the Standing Rock Tribe was hardly consulted about the project and the pipeline could pollute their water and endanger their sacred sites. For Spreading Lies About Him Rafi Schwartz Today 8:53am Share Tweet Kinja is in read-only mode. We are working to restore service.

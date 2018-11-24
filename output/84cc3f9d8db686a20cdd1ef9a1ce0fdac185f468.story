@@ -1,0 +1,1 @@
+Please look at the time stamp on the story to see when it was last updated. TRAVERSE CITY, Mich. Trademark and Copyright 2018 The Associated Press. All rights reserved. account. Notify me of new posts via email. 1 Comment Chris Not surprised Mr fracking would shut down the line before new one. Email check failed, please try again Sorry, your blog cannot share posts by email.

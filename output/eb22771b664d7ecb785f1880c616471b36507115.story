@@ -1,0 +1,1 @@
+Mr. Mack was elected as Graham County sheriff in 1988, and he served two terms until 1997, The Blaze reported. Click here for reprint permission. The Washington Times Comment PolicyThe Washington Times welcomes your comments on Spot.im, our third-party provider. Please read our Comment Policy before commenting.

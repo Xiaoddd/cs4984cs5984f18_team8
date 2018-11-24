@@ -1,0 +1,1 @@
+L'hiver, craignent-ils, s'annonce brutal. Waniya Locke note que les prochaines semaines sont cruciales pour les manifestants. Mais peu importe ce que nous allons faire.

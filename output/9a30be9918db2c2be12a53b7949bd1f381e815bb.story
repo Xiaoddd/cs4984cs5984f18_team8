@@ -1,0 +1,1 @@
+If you typed in a URL, please check the address and spelling. All rights reserved. Unauthorized distribution, transmission or republication strictly prohibited.

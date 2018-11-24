@@ -1,0 +1,1 @@
+The water protectors are trying to prevent the Dakota Access oil pipeline development on Standing Rock Sioux tribal land. Tubbs Fire devastated neighborhoods in Santa Rosa Monday.

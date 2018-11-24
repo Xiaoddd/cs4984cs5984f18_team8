@@ -1,0 +1,1 @@
+All Rights Reserved. Comedy Central and all related titles, logos and characters are trademarks of comedy partners.

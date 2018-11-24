@@ -1,0 +1,1 @@
+I'm told they're protesting something. No confirmation though. As of halftime, police were waiting out the protesters. Seats were cleared out below them, but the game was never interrupted.

@@ -1,0 +1,1 @@
+Protected Blog This site is marked private by its owner. Permission from the site owner. Once you've created an account, log in and revisit this screen to request an invite.

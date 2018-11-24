@@ -1,0 +1,1 @@
+Most of the money is going to pay personnel costs. Learn more about the Standing Rock protests and the Dakota Access Pipeline here.

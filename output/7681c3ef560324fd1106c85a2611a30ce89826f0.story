@@ -1,0 +1,1 @@
+Meche mused that perhaps the water level will go down enough to resume work on the pipeline by the time their original lawsuit is heard. Mitchell concurred with Meche about the potential challenges of trying to install the pipeline with water levels so high. Ironically, climate change may be a factor working against the Bayou Bridge pipeline now.

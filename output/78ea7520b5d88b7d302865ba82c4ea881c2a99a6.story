@@ -1,0 +1,1 @@
+Top photo is Thurs. Bottom is Fri. Of same spot.

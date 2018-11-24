@@ -1,0 +1,1 @@
+WHAT: Help Plant the Sacred Ponca Corn in the Path of KXL WHO: Ponca Tribe, Cowboy Indian Alliance, Bold Nebraska, the Tanderup family WHEN: Sunday, May 21, 10:00 a.m. SHARE: After you RSVP below, share the event details on Facebook. All rights reserved.

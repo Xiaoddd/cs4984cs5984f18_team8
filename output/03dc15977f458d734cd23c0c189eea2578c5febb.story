@@ -1,0 +1,1 @@
+Ahead of Tropical Storm Florence, Betts family evacuated from the coast to Raleigh, NC and are working their way back to assess the damage. UW Whitewater investigation UW Whitewater investigation UW Whitewater UW Whitewater September poll numbers NBC15's Amy Pflugshaupt interviews Marquette Law School Poll Director Charles Franklin about the latest numbers.

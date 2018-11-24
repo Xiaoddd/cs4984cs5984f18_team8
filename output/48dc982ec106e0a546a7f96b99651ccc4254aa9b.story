@@ -1,0 +1,1 @@
+The City of Burnaby has issued a statement opposing Kinder Morgan's Trans Mountain Pipeline Expansion, including a video featuring Mayor Corrigan, staff, and an economist. Neither the City of Burnaby or NEB have responded to requests for comment regarding the video. Please read our Commenting Policy first. All rights reserved. result found. results found.

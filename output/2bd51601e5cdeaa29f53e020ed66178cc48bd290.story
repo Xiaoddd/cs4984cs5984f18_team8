@@ -1,0 +1,1 @@
+Law enforcement says it happened Saturday at about 9:30 pm. Authorities say 34-year-old Kalief Hill was at the Cheyenne River Sioux Protest camp and told people he wanted to do a violent action. They say he was kicked out of the camp because he wasn't protesting peacefully. He's charged with terrorizing, criminal mischief, criminal trespassing, and disorderly conduct.

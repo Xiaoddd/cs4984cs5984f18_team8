@@ -1,0 +1,1 @@
+A court document filed today says the trial for Redfawn Fallis will now be in Fargo in December.
