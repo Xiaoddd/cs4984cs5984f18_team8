@@ -1,0 +1,1 @@
+According to the Guardian , veterans from across the US have arrived in North Dakota folowing the news that Donald Trump has given the Dakota Access pipeline permission to finish drilling across the Missouri river . The tribe fears that the pipeline could pollute the Missouri River , which is their main source of drinking water . More food . More feelgood . Every weekday .

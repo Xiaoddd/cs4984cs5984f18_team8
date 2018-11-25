@@ -1,0 +1,1 @@
+Unas variables que llevaron al Gobierno de Estados Unidos a paralizarlos . Ahora Trump los resucita . En 2013 , Exxon fue responsable del vertido de 1,9 millones de litros de estos productos en Mayflower -LRB- Arkansas , EE UU -RRB- . Es para descojonarse .

@@ -1,0 +1,1 @@
+Veterans flocked to Standing Rock to back the protesters demonstrating against plans to route the Dakota Access Pipeline beneath the reservation . You are now following this newsletter . See all newsletters .

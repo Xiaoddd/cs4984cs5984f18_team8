@@ -1,0 +1,1 @@
+Police use a water cannon to put out a fire started by protesters during a protest against plans to pass the Dakota Access pipeline near the Standing Rock Indian Reservation , near Cannon Ball , North Dakota , U.S. November 20 , 2016 .

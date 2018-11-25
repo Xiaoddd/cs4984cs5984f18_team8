@@ -1,0 +1,1 @@
+Liberals Are Cool The warning signs are all there . Capitalism is exacerbating white resentment , and crushing fragile white masculinity . Economics . Vice . Truth . Humor . Yankee pinstripes by birth . Philosophical INFP . Manhattan-snob in BK . I 'm Douglas Vicenzi .

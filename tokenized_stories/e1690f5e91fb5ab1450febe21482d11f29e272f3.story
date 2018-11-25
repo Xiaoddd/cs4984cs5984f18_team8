@@ -1,0 +1,1 @@
+Obama : Thank you for temporarily halting the Dakota Access Pipeline . prev Previous link President Obama : Thank you for temporarily halting the Dakota Access Pipeline .

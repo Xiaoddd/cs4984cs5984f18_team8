@@ -1,0 +1,1 @@
+There is no information about the casualties in the explosion , while large numbers of soldiers and police officers were dispatched to the area . An operation was launched in the region following the explosion . At least two soldiers are reported dead in these clashes .

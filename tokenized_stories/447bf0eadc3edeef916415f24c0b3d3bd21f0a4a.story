@@ -1,0 +1,1 @@
+Badlands National Park began tweeting climate change data as a way of pushing back , but then those tweets were deleted . But now Golden Gate National Recreation Area has picked up the torch on Twitter .

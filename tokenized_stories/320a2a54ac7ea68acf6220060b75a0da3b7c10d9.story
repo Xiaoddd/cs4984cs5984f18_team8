@@ -1,0 +1,1 @@
+Training defenders Standing Rock and teaching Non-Violent Direct Action in Hawai'i , Andre Perez has become an expert in organized resistance to institutionalized injustice . Enter your email address below and we will contact you . Email Address Submit We respect your privacy . Thank you for your interest . We 'll contact you shortly .

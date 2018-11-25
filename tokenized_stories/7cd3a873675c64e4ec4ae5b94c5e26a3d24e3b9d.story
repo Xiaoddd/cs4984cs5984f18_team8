@@ -1,0 +1,1 @@
+Le forze dell ` ordine hanno fatto sapere che sono state arrestate nove persone colpevoli di aver insultato gli agenti presenti . E ' seguito l'ordine ai manifestanti di abbandonare il campo occupato dalle proteste . Dopo i nove arresti , i manifestanti hanno lasciato l'area .

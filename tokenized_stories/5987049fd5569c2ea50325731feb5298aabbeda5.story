@@ -1,0 +1,1 @@
+Am retired Navy , married to the best man in the universe -LRB- Freddie -RRB- , & trying to enjoy life .

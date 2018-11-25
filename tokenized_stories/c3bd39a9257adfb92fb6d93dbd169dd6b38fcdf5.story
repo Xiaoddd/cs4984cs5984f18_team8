@@ -1,0 +1,1 @@
+We are grateful for the generous support of the Spencer F. & Cleone P. Eccles Family Foundation . The book is the result of work presented at the first Conference on the Rural West , which took place in Ogden , Utah , in October 2012 .

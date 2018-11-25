@@ -1,0 +1,1 @@
+Their activism prompted the Obama administration to halt the project without further review . Learn more at www.freepress.net . Join us on Facebook and follow us on Twitter .

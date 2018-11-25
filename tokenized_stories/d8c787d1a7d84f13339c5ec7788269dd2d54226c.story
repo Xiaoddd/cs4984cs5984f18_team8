@@ -1,0 +1,1 @@
+It is only a matter of luck that no one has been killed . WPLC lawyer Brandy Toelupe said that the alleged police misdeeds are part of a pattern . A federal judge must now rule on whether to allow the class action suit to proceed . A spokesperson for the Governor said there are no such plans for a blockade . That is our camp . We are working to restore service .

@@ -1,0 +1,1 @@
+This local arm of the protest will be targeted at the nearby U.S. Army Corps of Engineers , Northwestern Division on 12th and NE Lloyd Blvd. Event Website Holladay Park NE 11th & Holladay , Portland , OR View Larger Map Event Times This event is in the past .

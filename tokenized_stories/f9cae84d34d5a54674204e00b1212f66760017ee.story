@@ -1,0 +1,1 @@
+For nearly 25 years , he advocated for poor and minority neighborhoods stricken by pollution . He now joins Hip Hop Caucus , a civil rights nonprofit that nurtures grassroots activism through hip-hop music , as a senior vice president . Bookmarquez ce permalien . Avertissez-moi par e-mail des nouveaux articles . Je roule en rolls , mon fils vole en jet .

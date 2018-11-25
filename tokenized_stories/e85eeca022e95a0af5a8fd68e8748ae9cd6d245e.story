@@ -1,0 +1,1 @@
+And those earlier disputes over their rights to the land , like the one over the Dakota Access pipeline , pitted the tribes against a persistent force , the Army Corps of Engineers . This is an official site of standingrock.org .

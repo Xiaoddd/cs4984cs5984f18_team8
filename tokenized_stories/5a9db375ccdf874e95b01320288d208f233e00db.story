@@ -1,0 +1,1 @@
+WFHB reporter Leah Carter spoke with a local activist as well as a tech activist who spoke from Standing Rock . She brings us this report . Check Also Greene Co. . VISION : WFHB envisions a sustainable , diverse , participatory multimedia service that contributes to an entertained , informed , and empowered community .

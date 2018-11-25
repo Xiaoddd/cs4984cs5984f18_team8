@@ -1,0 +1,1 @@
+Klamath , Modoc of the Klamath Nation and Father . Husband . Activist .

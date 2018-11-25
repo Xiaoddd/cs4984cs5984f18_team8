@@ -1,0 +1,1 @@
+speaks to reporters on Capitol Hill in Washington . Organization is everything . Beyond the above , however , Sanders made it clear that he and his political allies would be opposed to the President-elect . And , the Senator noted , such opposition will be met with applause by most American voters . Copyright 2018 NPR .

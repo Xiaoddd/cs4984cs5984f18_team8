@@ -1,0 +1,1 @@
+Stop closing the dialog when user decides to save the content .

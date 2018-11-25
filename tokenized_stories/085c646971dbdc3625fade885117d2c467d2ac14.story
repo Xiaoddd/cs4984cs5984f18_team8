@@ -1,0 +1,1 @@
+Block Kavanaugh 's nomination . His way of life -LRB- b. 1930 -RRB- is perennially pursuing international indigenous rights and sovereignty . The video is also in an Indian Country Media Network article by Kalen Goodluck . . Mr. Lyons asks us to consider the Doctrine of Discovery . x YouTube Video .

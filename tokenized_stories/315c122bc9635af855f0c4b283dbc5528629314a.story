@@ -1,0 +1,1 @@
+This week , the American Civil Liberties Union filed a motion to throw it out . Today , the Standing Rock Sioux Tribe and other tribal nations are marching on Washington to advocate for recognition of their sovereignty . Watch Stephen Colbert take a swipe at EPA chief Scott Pruitt . All rights reserved . VIP .

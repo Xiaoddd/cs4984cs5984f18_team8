@@ -1,0 +1,1 @@
+It was easy then . So If you look closer at this photo of this Native with their fist up , you will see who our ancestors spoke of when they said the 7th generation is coming . Look closer and see what resilience and strength is . If you look closer you will see what it means to be a leader . Look closer you will see what it really means to Protect .

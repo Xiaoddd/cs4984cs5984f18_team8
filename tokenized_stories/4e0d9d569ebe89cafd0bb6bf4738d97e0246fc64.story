@@ -1,0 +1,1 @@
+Register for an account A password will be e-mailed to you . These are naturally occurring elements that are brought to the surface through fracking . Yes Rachael Maddow is Long winded and takes some time to get to the point I know . AND it seems Reservation land and Native Americans are targets of these crimes .

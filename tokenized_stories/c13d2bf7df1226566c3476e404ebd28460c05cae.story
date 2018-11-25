@@ -1,0 +1,1 @@
+Bringing the passion and fire this world needs . Paying supporters also get unlimited streaming via the free Bandcamp app . Bandcamp New & Notable Sep 18 , 2018 go to album Black Ego by Lando Chill The latest from Lando Chill pushes his forward-thinking hip-hop even further , branching out into trippy , psych-soul arrangements .

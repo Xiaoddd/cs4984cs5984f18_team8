@@ -1,0 +1,1 @@
+Las tribus asumen su responsabilidad como protectores . En respuesta , los custodios de seguridad privada lanzaron los perros contra la gente . Mni Wiconi : El agua es vida El jueves 24 de noviembre medios alternativos como Unicorn Riot e Indigenous Rising Media transmitieron en vivo desde Standing Rock .

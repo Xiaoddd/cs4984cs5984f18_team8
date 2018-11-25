@@ -1,0 +1,1 @@
+Published on Feb 28 , 2017 Months after water protectors had built a community of resistance against the completion of the Dakota Access Pipeline , militarized police evict the camp , arresting 46 people .

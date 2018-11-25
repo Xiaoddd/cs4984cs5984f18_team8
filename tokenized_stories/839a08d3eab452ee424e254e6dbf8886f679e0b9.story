@@ -1,0 +1,1 @@
+Not authorized by any candidate or candidate 's committee . This week , reporters are getting a better idea of the incredible scale of this cleanup . To make matters worse , the nearest landfill is 115 miles away .

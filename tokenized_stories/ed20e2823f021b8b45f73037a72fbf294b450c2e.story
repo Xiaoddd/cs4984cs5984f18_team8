@@ -1,0 +1,1 @@
+The son , Peter Tefft , told KVLY-TV in Fargo on Monday that he did n't want to say much about his family 's denunciation . While he denied his father 's account about him once joking about fascists throwing people into ovens , he acknowledged that he did make a joke about ovens .

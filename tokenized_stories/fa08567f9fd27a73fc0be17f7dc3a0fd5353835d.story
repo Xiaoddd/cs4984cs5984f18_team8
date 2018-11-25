@@ -1,0 +1,1 @@
+They have received threats because they opposed signing the collective permit for the construction of the pipeline . All Rights Reserved . The Magazine Basic Theme by bavotasan.com . This website uses cookies to improve your experience .

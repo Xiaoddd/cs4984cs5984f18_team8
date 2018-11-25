@@ -1,0 +1,1 @@
+Thank you . WELCOME TO THE GLOBAL SYNCHRONIZED PRAYER WITH STANDING ROCK . THANK YOU . elements on the page , and renders them using the FB SDK .

@@ -1,0 +1,1 @@
+ING creditcard is erg handig . Bekijk eens wat je beleggen je zou kunnen opleveren . U kunt uw betalingen voortaan bevestigen met onze Mobiel Bankieren App .

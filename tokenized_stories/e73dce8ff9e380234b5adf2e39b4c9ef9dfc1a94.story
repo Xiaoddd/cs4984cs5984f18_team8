@@ -1,0 +1,1 @@
+We 've learned that in just the last week there have been 35,412 hours of work put in by the National Guard . The average number of Guard members on duty for protest response per day is 200 . The number of students who left schooling for state active duty for protest response is 136 .

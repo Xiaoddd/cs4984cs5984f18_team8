@@ -1,0 +1,1 @@
+mar. . Rasmus Tantholdt interviewer Donna Tamakawastewin i Standing Rock Reservatet , North Dakota . Johnny er lakota-indianer med en underspillet humor . Vi fik sommertelte , som var ubrugelige i vejret heroppe . Men det her handler om meget andet end bare os .

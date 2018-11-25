@@ -1,0 +1,1 @@
+Per alcuni il vero motivo della scelta del Presidente sarebbe uno dei suoi clamorosi conflitti di interesse . Sembra infatti che Trump abbia investito in Energy Transfer Partners , la compagnia che sta dietro il Dakota Access . La notizia ha avuto grande eco sui media tedeschi . Una contraddizione troppo evidente da non richiedere di essere immediatamente sanata .

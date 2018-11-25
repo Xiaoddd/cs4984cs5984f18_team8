@@ -1,0 +1,1 @@
+Tom Fennario APTN National News North Dakota has had a bit of an extended summer . But now that temperatures are starting to drop water protectors at protest camps in Standing Rock need to winterize . And with that , may come some legal issues .

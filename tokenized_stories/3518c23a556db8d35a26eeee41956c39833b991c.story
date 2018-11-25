@@ -1,0 +1,1 @@
+Jackson joins a long list of celebrities speaking out against the pipeline . Some Republican politicians really do like clean energy . All rights reserved . VIP .

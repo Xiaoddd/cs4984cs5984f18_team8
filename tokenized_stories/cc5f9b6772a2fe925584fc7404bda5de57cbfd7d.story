@@ -1,0 +1,1 @@
+Block Kavanaugh 's nomination . An eight-justice Supreme Court just decided a major Indian law case by , well , not deciding it . Parties from developers to municipalities to states themselves , as here , can not rely on authorizations that predate this decision when it comes to activities that could significantly affect fish populations .

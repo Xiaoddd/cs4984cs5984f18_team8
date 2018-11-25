@@ -1,0 +1,1 @@
+Jan 24 , 2017 ... President Donald Trump on Tuesday signed executive actions to advance approval of the Keystone XL and Dakota Access oil pipelines .

@@ -1,0 +1,1 @@
+Many were attacked with rubber bullets , tear gas , mace canisters and water cannons in freezing temperatures . The attack began after the water protectors attempted to clear access to a public bridge , which has been blocked by authorities using military equipment chained to concrete barriers . Progressive news directly to your email .

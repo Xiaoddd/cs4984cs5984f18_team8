@@ -1,0 +1,1 @@
+High near 70F . Winds NW at 10 to 15 mph . . Tonight Partly cloudy skies . Slight chance of a rain shower . Low 38F . Winds ENE at 5 to 10 mph . 404 The page may have moved , you may have mistyped the address , or followed a bad link .

@@ -1,0 +1,1 @@
+When Trump attacks our indigenous brothers and sisters and pollutes their water , Trump is attacking LGBTQ indigenous people and polluting water used by LGBTQ people . Download the free Stranger Things To Do mobile app -LRB- available for iOS and Android -RRB- , or subscribe to our newsletter .

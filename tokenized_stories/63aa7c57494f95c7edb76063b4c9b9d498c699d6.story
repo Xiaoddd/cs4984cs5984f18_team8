@@ -1,0 +1,1 @@
+resident describes the power of Florence Video 1537029083 00:49 CBC News Deer swim through flooded Jacksonville , N.C.

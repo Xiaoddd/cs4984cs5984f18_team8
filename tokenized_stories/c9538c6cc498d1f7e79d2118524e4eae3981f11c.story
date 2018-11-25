@@ -1,0 +1,1 @@
+Executed and certified that the foregoing is a binding resolution of the American Indian Higher Education Consortium . Stay up to date with enews , blogs , and the latest job openings .

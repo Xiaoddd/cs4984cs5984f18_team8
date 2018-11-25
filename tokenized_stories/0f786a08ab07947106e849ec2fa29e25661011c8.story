@@ -1,0 +1,1 @@
+Sign up here for discounts and quicker purchasing .

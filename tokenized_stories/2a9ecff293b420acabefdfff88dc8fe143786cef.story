@@ -1,0 +1,1 @@
+Kennedy explains what 's really behind the petro-states ' pipeline fetish .

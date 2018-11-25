@@ -1,0 +1,1 @@
+Get help Privacy and Cookies Policy Password recovery Recover your password your email A password will be e-mailed to you . During the event , Carter often waxed philosophical about problem-solving using themes from his 2018 book , Faith , in which he wrote about the importance of clinging to hope in the midst of turmoil . All rights reserved .

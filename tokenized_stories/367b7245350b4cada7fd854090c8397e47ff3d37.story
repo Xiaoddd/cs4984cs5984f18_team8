@@ -1,0 +1,1 @@
+The piece is a large scale black and white photograph with a colorized image laid over it . Spencer Reed worked to find a material that allowed it float in the Grand River . It creates the illusion of an oil spill on the river . Ryan will also bring home a monetary prize .

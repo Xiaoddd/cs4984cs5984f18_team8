@@ -1,0 +1,1 @@
+Unlike the federally recognized Standing Rock Sioux Tribe , the Ramapough Lunaape Nation is only recognized by New Jersey and New York . The area became a Superfund site after years of soaring cases of cancer and birth defects within the community . OK , John Kasich did a fine thing for renewables . All rights reserved . VIP .

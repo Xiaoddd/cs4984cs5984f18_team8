@@ -1,0 +1,1 @@
+Like us on Facebook . Like Dallas News ' Facebook Page Get Unlimited Digital Access Your first month is less than a dollar . The federal government is involved in the pipeline 's production , ceasing construction on federal land after initially approving it . All Rights Reserved . Publisher Platform -LRB- P3 -RRB- .

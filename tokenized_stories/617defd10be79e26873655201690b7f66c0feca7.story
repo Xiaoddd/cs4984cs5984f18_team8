@@ -1,0 +1,1 @@
+machine gun . Via RT. . This piece was reprinted by RINF Alternative News with permission or license .

@@ -1,0 +1,1 @@
+The veterans plan on protecting the protectors starting December 4 , for three days .

@@ -1,0 +1,1 @@
+More like they massacred natives stole their land & forced them onto reservations . ugh . They r not up 2 this . This is what white eyes calls progress .

@@ -1,0 +1,1 @@
+Scribd is down for maintenance . Sorry for the inconvenience . We 'll be back shortly .

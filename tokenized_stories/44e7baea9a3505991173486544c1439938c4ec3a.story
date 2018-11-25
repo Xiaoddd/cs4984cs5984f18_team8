@@ -1,0 +1,1 @@
+The office of Gov. Jack Dalrymple had initially suggested more extreme tactics : cutting off access to the camp with a physical blockade , essentially laying siege to Standing Rock . The Oceti Sakowin Camp already faces hostile winter conditions , with 10 inches of snow since Monday , and temperatures continuing to drop below freezing . All rights reserved . VIP .

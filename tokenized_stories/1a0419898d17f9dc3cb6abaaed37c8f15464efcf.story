@@ -1,0 +1,1 @@
+account . This site uses Akismet to reduce spam . Learn how your comment data is processed . Search Coyote Gulch Search for : John Orr on Twitter Error : Twitter did not respond . Please wait a few minutes and refresh this page . Email check failed , please try again Sorry , your blog can not share posts by email .

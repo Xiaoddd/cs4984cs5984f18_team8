@@ -1,0 +1,1 @@
+Indeed , while Lavrov was meeting Turkish foreign minister Cavusoglu , Turkish defence minister was holding different meetings together with MIT head , Hakan Fidan .

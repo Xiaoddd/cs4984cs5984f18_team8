@@ -1,0 +1,1 @@
+A total of 13 departments and individuals are named as defendants in the case including the Department of the Interior ; Sally Jewell , Secretary of the Interior ; Bureau of Indian Affairs ; Bureau of Land Management ; Office of Trust Fund Management ; and others . It is policy of the federal government to not comment on pending litigation .

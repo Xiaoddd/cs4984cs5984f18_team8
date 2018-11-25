@@ -1,0 +1,1 @@
+The agreement means Enbridge can , for the time being , keep operating the line , despite intense scrutiny in recent years from regulators and environmentalists . Line 5 is decades old , and regulators have said it is at risk of leaking due to corrosion , anchors , missing coating and other factors . Sign up for our daily email .

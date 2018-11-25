@@ -1,0 +1,1 @@
+No obstante , el paso del oleoducto por el lago Oahe fue aprobado en julio . Con la fuerza de la verdad y la no violencia , los protectores del agua lograron entonces que autoridades federales , encabezadas por el presidente Obama , decidieran buscar otra ruta para el oleoducto . Derechos de Autor 04-2005-011817321500-203 .

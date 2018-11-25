@@ -1,0 +1,1 @@
+Whenever WGAL News 8 is on the air , you can watch live on your computer or smartphone . If you have clicked between live broadcasts , you will see our most-recent newscast on demand . Desktop users must have flash installed to watch the livestreams .

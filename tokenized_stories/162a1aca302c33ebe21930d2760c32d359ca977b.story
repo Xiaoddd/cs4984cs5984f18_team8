@@ -1,0 +1,1 @@
+-RRB- ; Attribution : Jen Sorensen Cartoon : Crude awakening at Standing Rock Nov 29 , 2016 6:50 am PST by Jen Sorensen , Community 47 101 Please log in or sign up to continue . I may have taken artistic license by showing a mainstream-ish TV news reporter here , as it seems this very important story is being largely ignored .

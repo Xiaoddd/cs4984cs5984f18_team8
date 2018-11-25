@@ -1,0 +1,1 @@
+Moderated by Jaskiran Dhillon , Global Studies and Anthropology , The New School . Watch the live stream of this event . Event Registration Required This event requires registration . Future updates to your selected event category will be reflected on your calendar . Login to The New School Login to interact with events , personalize your calendar , and get recommendations .

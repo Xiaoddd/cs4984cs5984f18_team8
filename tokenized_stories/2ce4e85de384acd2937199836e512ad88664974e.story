@@ -1,0 +1,1 @@
+It is a mould-made traditional print making paper with more than 500 years of history and heritage . All Artwork remains Copyright of MYSTIC MAMMA and may not be reproduced in anyway . Canada and International orders please allow 4-5 weeks . Ecommerce Software by Shopify .

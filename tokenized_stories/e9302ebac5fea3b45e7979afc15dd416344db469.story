@@ -1,0 +1,1 @@
+Please use a supported version for the best MSN experience . Kyrie Irving , who won an NBA championship with the Cleveland Cavaliers in 2016 , was born in Australia and he grew up in New Jersey . Try again later . Try again later .

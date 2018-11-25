@@ -1,0 +1,1 @@
+Block Kavanaugh 's nomination . The state government is only obligated to notify the public of oil spills if there is a threat to public health . Click on the image to start the video . In less than a month , on June 1 , the pipeline is scheduled to be fully operational .

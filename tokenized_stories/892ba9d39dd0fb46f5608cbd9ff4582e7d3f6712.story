@@ -1,0 +1,1 @@
+Los primeros contactos entre ellos y los adelantados europeos ocurrieron en el siglo XVIII . En ella no intervino ni la presencia ni la voz de sus habitantes .

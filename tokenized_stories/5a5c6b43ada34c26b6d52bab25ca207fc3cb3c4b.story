@@ -1,0 +1,1 @@
+This will bring the total number of BIA officers at the site to 40 . The BIA has committed to provide an additional 20 officers , who should be there this weekend .

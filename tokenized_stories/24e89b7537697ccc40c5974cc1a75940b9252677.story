@@ -1,0 +1,1 @@
+This is because decades of uranium mining have contaminated the majority of water sources on the reservation . VICE News travels to New Mexico to find out how people are coping , and if there is hope for the future .

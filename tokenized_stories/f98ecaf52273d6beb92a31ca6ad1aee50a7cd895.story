@@ -1,0 +1,1 @@
+Feb 28 , 2018 ... -LRB- CNN -RRB- Here 's a look at oil spill disasters . Spill estimates vary by source . Here is a look back at the major oil spills around the world in the past five decades : . ... On Jan. 27 , U.S. warplanes bombed pipe systems to stop the flow of oil . ... Date : January 19 , 1991 . More than 865200 gallons of crude oil spilled in North Dakota in 2013 .

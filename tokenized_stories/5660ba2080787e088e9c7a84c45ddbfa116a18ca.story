@@ -1,0 +1,1 @@
+Concurrently , NNU is dispatching its third delegation of RN volunteers Saturday to stand in solidarity with the water protectors and their supporters . They rock .

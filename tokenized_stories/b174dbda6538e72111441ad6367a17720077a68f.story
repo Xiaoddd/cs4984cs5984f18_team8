@@ -1,0 +1,1 @@
+For a time , no traffic was crossing west from St. Paul , but by 5:15 p.m. , the bridge was open again , police said . No one was arrested in the march , which included American Indian dancers and chanting against the pipeline . This is a developing story . for updates .

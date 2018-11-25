@@ -1,0 +1,1 @@
+Copyright -LRB- C -RRB- 2018 Yahoo Japan Corporation . All Rights Reserved .

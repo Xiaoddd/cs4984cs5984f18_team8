@@ -1,0 +1,1 @@
+Posted in Featured , No Dakota Access Pipeline , press releases . While the evictions took place the Kenya Forest Service was funded by international donors , including the World Bank , the European Union , and the Finnish government .

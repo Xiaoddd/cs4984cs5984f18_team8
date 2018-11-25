@@ -1,0 +1,1 @@
+A not insignificant number of these -LRB- including Google and Facebook -RRB- are based out of Ireland expressly for the purpose of evading taxes in the EU . That divestiture is in the billions to one , and these corporations have decided where their substituted penny tokenism goes , not governance , and not society . All Rights Reserved . Login .

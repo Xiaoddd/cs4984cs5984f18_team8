@@ -1,0 +1,1 @@
+Incluso , las estrellas se bajaron de su nube para apoyar a su manera esta lucha . que se erige de la zona norponiente de Dakota del Norte , pasa por el centro de Dakota del Sur , Iowa y termina en la zona suroriente de Illinois . Todo lo contrario . La identidad se genera por compartir rasgos esenciales . Esto es un impulso a que la gente lea , se informe , apoye y manifieste .

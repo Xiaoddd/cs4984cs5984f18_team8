@@ -1,0 +1,1 @@
+In other words , the market is convincing companies to keep these fossil fuels in the ground . Standing Rock is burning . All rights reserved . VIP .

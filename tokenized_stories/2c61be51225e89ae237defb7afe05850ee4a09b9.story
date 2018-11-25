@@ -1,0 +1,1 @@
+Teargas was also fired at demonstrators . The Indigenous Environmental Network said seven were taken to hospital .

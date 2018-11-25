@@ -1,0 +1,1 @@
+You may not attempt to copy , install , redistribute , convert , modify or reverse engineer this font software . As it relates to Racism . People from all races and walks of life share their thoughts on how to end racism in America . As it relates to Racism . People from all races and walks of life share their thoughts on how to end racism in America .

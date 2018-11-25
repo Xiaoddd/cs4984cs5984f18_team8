@@ -1,0 +1,1 @@
+Additionally , a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request .

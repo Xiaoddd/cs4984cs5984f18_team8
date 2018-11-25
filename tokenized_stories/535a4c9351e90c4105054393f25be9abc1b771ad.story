@@ -1,0 +1,1 @@
+We have joined forces to support the Standing Rock Sioux in their continued assertion of sovereignty over their traditional territories . Privacy & Cookies : This site uses cookies . By continuing to use this website , you agree to their use .

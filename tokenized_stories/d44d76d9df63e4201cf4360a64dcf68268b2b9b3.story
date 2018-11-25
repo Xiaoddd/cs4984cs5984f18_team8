@@ -1,0 +1,1 @@
+Thom is a four-time Project Censored-award-winning , New York Times best-selling author . His national daily progressive radio talk show is distributed to radio stations nationwide by Westwood One , Pacifica , and Free Speech TV . More people listen daily to the Thom Hartmann Program than any other progressive talk show in the nation .

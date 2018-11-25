@@ -1,0 +1,1 @@
+It 's below freezing and riot police are now firing water cannons and tear gas against water protectors . 10:34 PM - 20 Nov 2016 The following media may contain sensitive material . Learn more .

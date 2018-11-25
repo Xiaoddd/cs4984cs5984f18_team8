@@ -1,0 +1,1 @@
+More Vets are showing up today bringing the number to 3k . It sounds like DAPL will ignore the Army Corps of Engineers and continue work . So we have to hit them where it counts . We must continue to push people to Divest from Sunoco and Energy Transfer Partners and take their money out of Banks like Bank Of America and CitiBank .

@@ -1,0 +1,1 @@
+Press play to start . When you add a link to your video , the video will pause at this position and viewers will see the linked web page .

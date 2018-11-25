@@ -1,0 +1,1 @@
+Utrikes . Hundratals har skadats i sammandrabbningarna . Nu stoppas beslutet av amerikanska myndigheter som ska utreda en alternativ dragning av ledningen . Missa inte alla kurser och seminarier i ETC Solpark i Katrineholm .

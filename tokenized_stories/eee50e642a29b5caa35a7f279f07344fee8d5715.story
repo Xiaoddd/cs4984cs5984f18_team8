@@ -1,0 +1,1 @@
+Nb . Powered by Blogger .

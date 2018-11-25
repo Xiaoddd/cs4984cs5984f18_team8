@@ -1,0 +1,1 @@
+A spokesman for the Morton County Sheriff 's Department told the AP that officials are prepared with gear for the winter weather . More than 2,000 veterans went to the Oceti Sakowin camp Thursday to create human shields of protection for the protesters against police . Sign up for our daily email .

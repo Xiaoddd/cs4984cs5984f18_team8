@@ -1,0 +1,1 @@
+Naturally , we got to work finding out everything the report had to say about RT , the state-controlled television network that has been panned by viewers and even its own employees for years . The report focused on RT America , the English-language and USA-based arm of the network . Facebook . Email us . Or to keep it anonymous , click here .

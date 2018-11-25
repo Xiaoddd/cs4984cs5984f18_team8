@@ -1,0 +1,1 @@
+The pipeline will run through conservation areas , under rivers and near springs . You could see the rainbow reflecting from the fuel slick . Shell started commissioning confidential work about the impact of burning fossil fuels on the global climate as early as 1981 .

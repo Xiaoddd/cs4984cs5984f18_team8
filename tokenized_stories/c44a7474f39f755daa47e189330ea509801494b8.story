@@ -1,0 +1,1 @@
+The court must determine on what authority these security personnel were acting , and whether their actions constituted false imprisonment . Given that amended law , this lawsuit makes a powerful case that Dakota Access violated the law . All rights reserved .

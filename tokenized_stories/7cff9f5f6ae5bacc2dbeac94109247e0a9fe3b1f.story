@@ -1,0 +1,1 @@
+The president-elect also discussed the Environmental Protection Agency and his decision to select Oklahoma Attorney General Scott Pruitt to head it . Content created by The Daily Caller News Foundation is available without charge to any eligible news publisher that can provide a large audience .

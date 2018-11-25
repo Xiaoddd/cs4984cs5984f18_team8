@@ -1,0 +1,1 @@
+On the same day as New York , Berkeley City Council in California passed another plan for Wells Fargo divestment . We recommend moving this block and the preceding CSS link to the HEAD of your HTML file . Get more stories like this in your inbox , every day . Ilana Novick is an AlterNet contributing writer and production editor .

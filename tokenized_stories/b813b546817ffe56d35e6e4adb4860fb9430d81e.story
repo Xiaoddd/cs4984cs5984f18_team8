@@ -1,0 +1,1 @@
+New York Times correspondent Helene Cooper recalled 2000 and wondered why Stein would pursue recounts in three separate states . You can not be on-again , off-again about democracy . Email us . Or to keep it anonymous , click here .

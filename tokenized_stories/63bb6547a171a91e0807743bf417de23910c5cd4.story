@@ -1,0 +1,1 @@
+The internet is the most effective resource we have to combat the corporatists running our government . This award-winning documentary explores the threat Internet censorship imposes on free speech , innovation , and democracy . The internet is the most effective resource we have to combat the corporatists running our government .

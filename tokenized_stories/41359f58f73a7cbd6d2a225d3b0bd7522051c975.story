@@ -1,0 +1,1 @@
+When I traveled back to the state for personal reasons , I paid for it . He also said expensive private or military travel has only happened four times during his time in office . Sign up for our daily email .

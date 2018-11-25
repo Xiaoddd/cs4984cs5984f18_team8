@@ -1,0 +1,1 @@
+Chris Stewart APTN National News As the Dec. 5 eviction date at the North Dakota camp trying to shut down construction of a pipeline , new groups of supporters have arrived on the scene .

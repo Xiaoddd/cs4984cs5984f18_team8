@@ -1,0 +1,1 @@
+Er werd traangas en waterkanonnen ingezet .

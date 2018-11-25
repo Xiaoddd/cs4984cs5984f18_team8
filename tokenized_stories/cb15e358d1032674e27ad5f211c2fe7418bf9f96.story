@@ -1,0 +1,1 @@
+Created with Sketch . Both agreements were made before the Dakota Access Pipeline was announced in 2014 , though they were extended in 2015 . Barclays and HSBC declined to comment . All of these loans are set to mature by 2020 . Help us tell the story right Climate change is the story of the century . As journalists , we have a responsibility to tell it right .

@@ -1,0 +1,1 @@
+So far , local law enforcement agencies have been the only ones handling the protests against the pipeline . Frankly , our federal leaders should be ashamed of their lack of response to a dangerous crisis currently in progress on their own soil .

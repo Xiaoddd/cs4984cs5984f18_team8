@@ -1,0 +1,1 @@
+Block Kavanaugh 's nomination . ' . banner-ad-row ' -RRB- ; Bull Connor would be proud . Police at NODAPL are channeling him .

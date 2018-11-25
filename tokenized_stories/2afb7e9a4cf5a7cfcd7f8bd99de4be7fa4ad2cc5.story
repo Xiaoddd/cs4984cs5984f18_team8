@@ -1,0 +1,1 @@
+The Internet Research Agency also ran 3,000 ads on divisive political and social issues that reached about 10 million users on Facebook . You are now following this newsletter . See all newsletters .
