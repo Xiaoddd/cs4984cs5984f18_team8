@@ -1,0 +1,1 @@
+Judge Boasberg issued his ruling Monday in Washington, D.C., and will consider the request more thoroughly at a Feb. 27 hearing. The Cheyenne River and Standing Rock Sioux requested the temporary injunction last week after Texas-based Energy Transfer Partners got federal permission to lay pipe under a Missouri River reservoir in North Dakota.

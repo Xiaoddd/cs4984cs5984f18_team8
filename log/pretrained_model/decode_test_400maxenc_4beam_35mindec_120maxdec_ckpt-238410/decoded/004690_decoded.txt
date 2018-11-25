@@ -1,0 +1,4 @@
+panelists will include sue rosenberg of coalition against pilgrim pipeline .
+but please remove or change it before deployment .
+note contentstats tag below as well may need to be changed .
+for testing on dev sites , you may need to turn it off with -1 .

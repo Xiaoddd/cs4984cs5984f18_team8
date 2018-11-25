@@ -1,0 +1,9 @@
+.git
+.idea
+.vscode
+virtualenv
+*.pyc
+/*.pyc
+log/pretrained_model/train/*
+log/pretrained_model/eval/*
+log/pretrained_model/decode_test_*/reference

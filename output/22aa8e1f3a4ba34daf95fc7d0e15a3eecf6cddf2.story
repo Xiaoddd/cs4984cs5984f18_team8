@@ -1,0 +1,1 @@
+Copyright (C) 2018 Yahoo Japan Corporation. All Rights Reserved.

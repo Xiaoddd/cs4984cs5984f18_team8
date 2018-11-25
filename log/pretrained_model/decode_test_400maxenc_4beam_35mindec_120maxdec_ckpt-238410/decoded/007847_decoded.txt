@@ -1,0 +1,4 @@
+security researcher chris vickery , an analyst at the u.s. cybersecurity firm upguard , last year discovered an enormous breach of mexican voter data and in 2015 a 300 gb leak of records of 191 million voters .
+the leak was discovered by one of the data-mining companies that compiled it .
+the leak was stored in a publicly accessible cloud server owned by republican data firm deep root analytics .
+two of the firms linked to the database , deep root analytics and target point , were among three firms hired by the rnc to do most of its data modeling and voter scoring in 2016 .

@@ -1,0 +1,1 @@
+The pipeline was rejected by former President Barack Obama and is angrily opposed by a swathe of environmental groups on both sides of the border. Obama shelved the proposed 1,200-mile pipeline from the Canadian province of Alberta to Nebraska in November 2015 after caving to environmentalists.

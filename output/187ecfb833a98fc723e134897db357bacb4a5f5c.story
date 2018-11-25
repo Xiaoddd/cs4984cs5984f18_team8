@@ -1,0 +1,1 @@
+On Sunday, police officers in Morton County used water cannon and rubber bullets on unarmed pipeline protesters, who have been occupying the federally-owned land since August. Over 160 people have been injured in standoffs with law enforcement over the weekend. All rights reserved. This website uses cookies. Read RT Privacy policy to find out more.

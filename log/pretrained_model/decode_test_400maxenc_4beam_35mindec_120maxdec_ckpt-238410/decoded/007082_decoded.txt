@@ -1,0 +1,3 @@
+the url contains a typographical error .
+a custom filter or module , such as urlscan , restricts access to the file .
+create a tracing rule to track failed requests for this http status code and see which module is calling setstatus .

@@ -1,0 +1,1 @@
+The company already operates thousands of miles of pipeline across Texas and the U.S. Abbott also appointed Jeanne Latimer of San Antonio and Anna Benavides Galo of Laredo. That includes Bill Jones, the Austin man behind a planned nuclear waste storage site in rural Culberson County. Bookmark the permalink. Enter your email address to get occasional updates.

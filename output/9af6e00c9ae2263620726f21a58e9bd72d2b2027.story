@@ -1,0 +1,1 @@
+The explosion was in the 9500 block of Mellon Bridge Road in Platte City. The pipeline contains ethane and propane, according to Kansas City Fire Department officials. Agencies from Kansas City, Southern Platte County and Northern Platte County are on scene.

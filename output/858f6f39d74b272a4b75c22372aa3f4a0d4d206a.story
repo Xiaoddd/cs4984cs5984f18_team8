@@ -1,0 +1,1 @@
+Block Kavanaugh's nomination. During the meeting he had some strong statements to make concerning the ancestral lands and the relationship and rights Indigenous people have and should have.

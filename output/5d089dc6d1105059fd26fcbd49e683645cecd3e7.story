@@ -1,0 +1,1 @@
+Just landed in Bismarck. 8:32 PM - 2 Dec 2016. 2465 Retweets4346 Likes.

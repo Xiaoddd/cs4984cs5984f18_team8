@@ -1,0 +1,1 @@
+In just driving a few minutes around our neighborhood with my sons, we found more signs demanding social justice and declaring solidarity than we had time to photograph. Banner images provided by Classic Sailing or GollyGforce, for demo purposes only.

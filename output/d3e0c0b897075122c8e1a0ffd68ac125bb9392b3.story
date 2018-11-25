@@ -1,0 +1,1 @@
+Mayor Ed Murray has already agreed to sign the measure. It also administers a line of credit to Energy Transfer Partners, the Dallas-based company behind the pipeline.

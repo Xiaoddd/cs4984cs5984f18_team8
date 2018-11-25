@@ -1,0 +1,1 @@
+Les opposants au projet soutiennent que celui-ci menace des sources d'approvisionnement en eau et des sites culturels. Un manifestant de Standing Rock.

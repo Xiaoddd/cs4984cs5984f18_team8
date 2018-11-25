@@ -1,0 +1,3 @@
+files have been traced back to tigerswan , a north carolina-based private security firm .
+but in a statement on saturday , tigerswan implicated talentpen , a third-party vendor apparently used by the firm to process new job applicants .
+we take seriously the failure of talentpen to ensure the security of this information and regret any inconvenience or exposure our former recruiting vendor may have caused these applicants .

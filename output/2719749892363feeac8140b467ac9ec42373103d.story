@@ -1,0 +1,1 @@
+Wells Fargo and US Bank directly fund the Dakota Access Pipeline and are thus complicit in perpetuating over 500 years of genocide and oppression against Native Americans. We demand that Wells Fargo, US Bank and all other funders divest from Energy Transfer Partners, DAPL and all fossil fuel interests. This entry was posted in Action by Conflict MN. Bookmark the permalink.

@@ -1,0 +1,1 @@
+In North Dakota, the project crosses federal flowage easements at the Missouri River upstream of Lake Sakakawea in Williams County and federally-owned lands at Lake Oahe in Morton and Emmons counties. The Omaha District is seeking public comments on the environmental assessment for these two project areas.

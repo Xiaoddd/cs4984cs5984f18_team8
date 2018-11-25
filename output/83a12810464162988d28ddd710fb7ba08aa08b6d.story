@@ -1,0 +1,1 @@
+We use captchas and block offending IPs. Also we have zero-tolerance policy against illegal pornography. All galleries and links are provided by users. We take no responsibility for the content specified by users.

@@ -1,0 +1,1 @@
+A large wood fire behind her blocks a road. Fellow Water Protectors behind her also have fists raised. An issue occurred while loading. A large wood fire behind her blocks a road. A large wood fire behind her blocks a road. by Avery White. A large wood fire behind her blocks a road.

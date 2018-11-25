@@ -1,0 +1,1 @@
+Please use a supported version for the best MSN experience. Kaepernick first began kneeling during the anthem last season. Try again later. Try again later.

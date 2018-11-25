@@ -1,0 +1,1 @@
+Please note that if you are using a credit card, your name and address must agree with the name on the credit card and billing address. Click here to view our privacy policy. Clicking authorizes this transaction and it cannot be undone. All transactions are processed through our secure server.

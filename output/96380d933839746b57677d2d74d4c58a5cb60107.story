@@ -1,0 +1,1 @@
+All Rights Reserved. The Magazine Basic Theme by bavotasan.com.

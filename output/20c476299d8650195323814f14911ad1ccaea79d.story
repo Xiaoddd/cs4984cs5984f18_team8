@@ -1,0 +1,1 @@
+Block Kavanaugh's nomination. She is the executive director of Honor the Earth, which in 2016 is playing an active role in the Dakota Access Pipeline protests. He was first elected to the chamber in 2010.

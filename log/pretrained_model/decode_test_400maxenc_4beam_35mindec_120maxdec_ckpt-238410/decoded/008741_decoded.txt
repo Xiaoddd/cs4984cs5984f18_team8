@@ -1,0 +1,3 @@
+if you do not know how to enable browser cookies , follow these steps .
+it is possible that your session has been timed out due to inactivity and you must log back in .
+this is done as a security precaution to protect you and your information .

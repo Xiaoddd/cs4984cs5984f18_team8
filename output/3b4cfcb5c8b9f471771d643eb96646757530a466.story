@@ -1,0 +1,1 @@
+My passions are working in the video game industry, helping humans and animals alike, and, of course, skydiving.

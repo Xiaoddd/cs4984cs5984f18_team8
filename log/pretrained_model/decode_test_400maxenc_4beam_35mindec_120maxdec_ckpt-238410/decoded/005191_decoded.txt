@@ -1,0 +1,3 @@
+followers of my journalism are likely aware that i made 3 trips to standing rock , north dakota in august , and december 2016 .
+we can do this using pure css but it is reliant on the multi line ellipsis which is javascript only .
+we can do this using pure css but it is reliant on the multi line ellipsis which is javascript only .

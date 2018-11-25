@@ -1,0 +1,1 @@
+Sandbags were also used a precaution. The all clear issued for the Code 5 just after 8pm. As Heard On: Contact BlackburnNews.com is a network of local newsrooms providing timely, accurate multimedia coverage of Southwestern and Midwestern Ontario.

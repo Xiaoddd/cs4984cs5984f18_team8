@@ -1,0 +1,1 @@
+Tillbaka till Nordea. Jag borde nog byta bank. Helt gratis. Helt gratis.

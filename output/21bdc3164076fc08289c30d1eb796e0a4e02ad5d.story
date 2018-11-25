@@ -1,0 +1,1 @@
+The presentation discusses the International Military Education and Training (IMET) program which sends 20-25 Yemeni military students to various military schools in the US. All rights reserved. This website uses cookies. Read RT Privacy policy to find out more.

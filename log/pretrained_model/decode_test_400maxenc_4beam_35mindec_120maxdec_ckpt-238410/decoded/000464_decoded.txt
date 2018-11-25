@@ -1,0 +1,4 @@
+a third-party browser plugin , such as ghostery or noscript , is preventing javascript from running .
+additional information is available in this support article .
+after completing the captcha below , you will immediately regain access to www.teepublic.com .
+consider refreshing the page .

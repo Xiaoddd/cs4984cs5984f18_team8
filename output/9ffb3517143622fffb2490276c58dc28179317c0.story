@@ -1,0 +1,1 @@
+We also have Choice Words about what politics could look like in the NBA locker room after their greatest fan leaves the White House, the Just Stand Up goes to two Wisconsin players with their eyes on the prize: Bronson Koenig and - again - to Nigel Hayes.

@@ -1,0 +1,1 @@
+Government lawyers have said they could finish the review by December. The Standing Rock Sioux and Cheyenne River Sioux tribes have asked Boasberg to order Dakota Access offline during the review. Sign up for our daily email.

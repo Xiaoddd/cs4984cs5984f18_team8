@@ -1,0 +1,1 @@
+We can do this using pure CSS but it is reliant on the multi line ellipsis which is javascript only.

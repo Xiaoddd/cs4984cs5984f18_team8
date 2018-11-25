@@ -1,0 +1,1 @@
+The letter, dated April 3, requests answers from the Corps by the 12th. Protesters at and around the construction site were frequently targeted by heavily militarized police, using water cannons, and rubber bullets to subdue the activists. Advertisement Read the full letter below. When in doubt he'll have the soup. We are working to restore service.

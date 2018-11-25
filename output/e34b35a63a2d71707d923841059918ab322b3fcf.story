@@ -1,0 +1,1 @@
+The editorial board, which has run its share of anti-DAPL pieces, also noted how the Army Corps attempted more than a dozen times in a two-year period to discuss the route with Standing Rock, but the tribe failed to respond in time.

@@ -1,0 +1,1 @@
+Your action has been submitted. Now multiply your impact by telling your friends.

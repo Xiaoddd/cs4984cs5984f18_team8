@@ -1,0 +1,1 @@
+Please return to the civilian sectors of the site to browse officially approved information streams. About Rantt Rantt Media is an independently owned news company that launched in October 2016. We analyze the news, shed light on injustices, and tell the stories that matter to you.

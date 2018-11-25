@@ -1,0 +1,1 @@
+All Rights Reserved. RSS. Twitter. Facebook. Advertise (via Google).

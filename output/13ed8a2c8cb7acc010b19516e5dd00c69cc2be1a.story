@@ -1,0 +1,1 @@
+Alameda joins a growing list of local city and Tribal governments divesting from banks financing the Dakota Access pipeline.

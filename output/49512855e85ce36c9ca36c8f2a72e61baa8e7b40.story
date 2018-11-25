@@ -1,0 +1,1 @@
+In a press conference held at the Oceti Sakowin protest camp, members of the indigenous community gave a united response to a letter sent to Standing Rock tribal chairman Dave Archambault II informing of possible evictions north of the Cannonball River. All rights reserved. This website uses cookies. Read RT Privacy policy to find out more.

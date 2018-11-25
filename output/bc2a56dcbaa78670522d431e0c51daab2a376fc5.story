@@ -1,0 +1,1 @@
+Perhaps searching can help. Other copyrights may apply. All materials by Eric Francis appear by license from Book of Blue LLC. Some images used under Fair Use or Creative Commons attribution.

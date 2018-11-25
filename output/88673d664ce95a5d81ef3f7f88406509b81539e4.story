@@ -1,0 +1,1 @@
+Among the other states which saw bills pass was North Dakota, the epicenter of the uprising against the Dakota Access pipeline. If the ALEC model bill draft proposal does indeed become an official model, the template will be distributed to legislators in statehouses across the country.

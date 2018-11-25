@@ -1,0 +1,3 @@
+ratti and jones claim the unit is useful for more than just the usual quadcopter hobby flying .
+the unit also comes with its own sdk , so more advanced users can customize the dragonfly as much as their know-how will allow .
+since the project is on indiegogo , funding it will net you some units and more .

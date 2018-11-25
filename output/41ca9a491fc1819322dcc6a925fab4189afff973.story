@@ -1,0 +1,1 @@
+The incoming Republican-controlled Senate has named John Hoeven, a staunch proponent of the highly controversial Dakota Access Pipeline, as the new chair of the Senate Committee on Indian Affairs. Among the latter is Sen. Tom Udall (D-NM), the newly-appointed vice-chair of the Indian Affairs Committee.

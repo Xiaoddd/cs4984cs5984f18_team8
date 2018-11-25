@@ -1,0 +1,1 @@
+By Joe Whittle Posted on Dec 22, 2016 Dec 22, 2016 Posted in Blogs, Featured, No Dakota Access Pipeline and tagged cree, dakota access pipeline, lubicon, oil spill. While the evictions took place the Kenya Forest Service was funded by international donors, including the World Bank, the European Union, and the Finnish government.

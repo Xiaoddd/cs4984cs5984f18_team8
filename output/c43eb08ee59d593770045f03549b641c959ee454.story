@@ -1,0 +1,1 @@
+The story should have made clear that a spokesman said university President Mark Kennedy was unaware of the proposals and was not involved in the decision not to approve them.

@@ -1,0 +1,3 @@
+if you are not a bot but are spoofing one via your browser 's user string .
+as a reminder to developers , we recommend that clients make no more than one request every two seconds to avoid seeing this message .
+if you appear to be a bot and we 've seen too many requests from you lately .

@@ -1,0 +1,1 @@
+ANF NEWS DESK Friday, 31 Aug 2018, 11:22 As expectation and concern grow about a possible operation by the Syrian regime in Idlib, the last great region in the hands of the mercenaries, the islamic groups blew up two bridges according to the Syrian Human Rights Observatory.

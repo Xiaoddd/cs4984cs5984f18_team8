@@ -1,0 +1,1 @@
+North Dakota and local governments have shouldered most of the expenses. North Dakota Governor Jack Dalrymple says requests for reimbursement from the federal government have been unsuccessful so far.

@@ -1,0 +1,1 @@
+Although protesters in North Dakota are up against dangerous winter conditions and physical force exerted by local law enforcement, there are no signs the conflict will be resolved soon.

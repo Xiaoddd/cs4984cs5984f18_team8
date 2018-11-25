@@ -1,0 +1,1 @@
+We stand in solidarity with Indigenous land, water and environment protectors across Turtle Island, from British Columbia to Quebec, from Burnaby to Lelu Island, from Muskrat Falls to Standing Rock. Coast Protectors is proudly hosted by the Union of BC Indian Chiefs (UBCIC).

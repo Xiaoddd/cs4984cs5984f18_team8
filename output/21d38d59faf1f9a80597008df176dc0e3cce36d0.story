@@ -1,0 +1,1 @@
+The West Coast Caravan that left yesterday for North Dakota was traveling with another car. That car had had three people in it and flipped on the way in Spokane, Washington. One of the vehicle's occupants is in critical condition and two others are injured. The cause of the crash is unknown. We will continue to update with information as we receive it.

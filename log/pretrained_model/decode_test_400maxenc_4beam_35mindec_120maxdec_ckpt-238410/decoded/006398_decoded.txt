@@ -1,0 +1,4 @@
+by default , your stylesheet will be loaded after the theme stylesheets , which means that your rules can take precedence and override the theme css rules .
+just write here what you want to change , you do n't need to copy all your theme 's stylesheet content .
+by default , your stylesheet will be loaded after the theme stylesheets .
+just write here what you want to change , you do n't need to copy all your theme 's stylesheet content .

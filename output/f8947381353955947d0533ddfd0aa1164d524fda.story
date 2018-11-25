@@ -1,0 +1,1 @@
+Firefighters Use Jaws of Life to Rescue 53-pound Alligator Snapping Turtle ABC News Videos December 1, 2016 Firefighters and a Houston SPCA rescue team freed the 53-pound turtle. ABC News Videos 'Mrs.

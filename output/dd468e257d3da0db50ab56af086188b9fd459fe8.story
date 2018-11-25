@@ -1,0 +1,1 @@
+Premier John Horgan is also seeking a legal ruling on whether his province can restrict increased amounts of oil from coming into B.C. while his government reviews oil-spill safety measures. Please read our Commenting Policy first. All rights reserved. result found. results found.

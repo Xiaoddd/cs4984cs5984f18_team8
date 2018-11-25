@@ -1,0 +1,1 @@
+But things are changing. Now, hundreds of veterans plan to attend to act as human shields for the protestors. According to the GoFundMe campaign, over 2,000 veterans are planning to attend, meaning that the event hit capacity. Just, wow.

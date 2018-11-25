@@ -1,0 +1,1 @@
+Please remove all references to this resource.

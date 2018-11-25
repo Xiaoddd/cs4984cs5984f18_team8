@@ -1,0 +1,1 @@
+January 25, 2017 As of yet, it has not been verified whether the account is actually run by National Park employees. Eagle-eyed tweeters noticed the account had tweeted about the British general election in 2015.

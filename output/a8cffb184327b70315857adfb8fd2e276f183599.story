@@ -1,0 +1,1 @@
+The CEO of pipeline developer Energy Transfer Partners says he made a verbal offer to Gov. Jack Dalrymple to reimburse the state. Dalrymple's spokesman says no formal offer has been made. Several states, including Nebraska, have sent state troopers to North Dakota to assist local authorities.

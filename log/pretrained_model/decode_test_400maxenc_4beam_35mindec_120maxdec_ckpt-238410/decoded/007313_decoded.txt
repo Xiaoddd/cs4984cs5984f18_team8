@@ -1,0 +1,3 @@
+more information accept by clicking accept or closing this message .
+you can change your cookie settings at any time but parts of our site will not function correctly without them .
+uses the template for the field being rendered .

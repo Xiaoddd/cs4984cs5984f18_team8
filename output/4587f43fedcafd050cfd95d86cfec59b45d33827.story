@@ -1,0 +1,1 @@
+Boasberg, an Obama appointee, cited Supreme Court precedent that sets a higher bar for succeeding in a religious freedom case. The tribe has asked Boasberg to rule on the validity of the project based on those arguments. Sign up for our daily email.

@@ -1,0 +1,1 @@
+Fox News Hires Pocket-Sized Fascist Ben Shapiro for an Election Show Katherine Krueger Yesterday 2:53pm Share Tweet Kinja is in read-only mode. We are working to restore service.

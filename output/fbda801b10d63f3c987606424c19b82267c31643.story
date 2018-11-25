@@ -1,0 +1,1 @@
+Mit Deiner Eingabe akzeptierst Du unsere Bestimmungen zum Datenschutz. Campax ist Mitglied bei OPEN, der globalen Organisation nationaler Grassroot-Campaigning-Organisationen. Campax Hermetschloostr. Alle Rechte vorbehalten.

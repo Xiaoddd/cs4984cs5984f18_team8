@@ -1,0 +1,1 @@
+He added that the movement is one of the largest gatherings of Native American tribes since Christopher Columbus arrived in America, calling it the equivalent of the civil rights movement. Jones called for President Obama to take action to stop the pipeline. Sign up for our daily email.

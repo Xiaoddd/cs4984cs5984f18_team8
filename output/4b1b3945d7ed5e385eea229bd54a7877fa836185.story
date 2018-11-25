@@ -1,0 +1,1 @@
+corporation has a right to endanger the primary source of clean water for 17M people. Period. corporation has a right to endanger the primary source of clean water for 17M people. Period. corporation has a right to endanger the primary source of clean water for 17M people. Period.

@@ -1,0 +1,1 @@
+Now people at the camp are eagerly waiting on word on her condition.

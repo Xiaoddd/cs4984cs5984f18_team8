@@ -1,0 +1,1 @@
+WordPress ships with current jQuery versions.

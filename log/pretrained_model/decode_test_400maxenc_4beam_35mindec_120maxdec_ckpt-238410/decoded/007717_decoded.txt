@@ -1,0 +1,3 @@
+since the field widgets are dynamically created by the janrain js library .
+we collect zip code so that we may deliver news , weather , special offers and other content related to your specific geographic area .
+visit us and sign in to update your profile , receive the latest news and keep up to date with mobile alerts .

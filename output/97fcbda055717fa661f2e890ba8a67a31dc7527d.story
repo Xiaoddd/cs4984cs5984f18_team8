@@ -1,0 +1,1 @@
+The Triple Evils of POVERTY, RACISM and MILITARISM are forms of violence that exist in a vicious cycle. They are interrelated, all-inclusive.

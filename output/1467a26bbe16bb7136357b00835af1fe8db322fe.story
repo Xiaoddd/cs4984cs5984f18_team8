@@ -1,0 +1,1 @@
+John Laurits Insurgent journalism. Poetry. Weaponized math. I was able to get a few decent videos & even found enough of a signal to live-stream part of it, although the audio of the live-stream was pretty much ruined by the blizzard. And I also messed up the caption, too. Glad you care more about heart than you do about perfection. Never take yourself too seriously.

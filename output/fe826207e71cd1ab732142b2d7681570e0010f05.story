@@ -1,0 +1,1 @@
+Law Enforcement will maintain its new position only if the protestors adhere to the conditions outlined. Any violation of the conditions will show that protestors have chosen to be aggressors by violating the law, and it will result in their arrest.

@@ -16,7 +16,8 @@ def hashhex(s):
 
 # as each document for NoDAPL data in the JSON file takes multiple lines, so use a different way to extract info
 
-jsonFile = 'data/top100_bigger_corpus.json'
+#jsonFile = 'data/top100_bigger_corpus.json'
+jsonFile = 'data/part-00000-66d9f78f-37f9-4dea-985c-6e2c040632ef-c000.json'
 outputDir = 'output'
 outputUrlDir = 'url'
 
@@ -30,8 +31,8 @@ URL_FILE = open(os.path.join(outputUrlDir, 'all_urls.txt'), 'w')
 with open(jsonFile, 'r') as json_data:
     input_data = json.load(json_data)
     for entry in input_data:
-        url = entry['URL'][0]
-        sentences = entry['Sentences'][0]
+        url = entry['URL']
+        sentences = entry['Sentences']
         print (url, sentences)
         h = hashhex(url)
 

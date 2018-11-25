@@ -1,0 +1,1 @@
+But she wants you to know she really cares about Native communities. The FBI needs to investigate you for lying about military service and more.

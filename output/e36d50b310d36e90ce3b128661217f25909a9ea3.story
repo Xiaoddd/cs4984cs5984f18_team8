@@ -1,0 +1,1 @@
+We don't want to access s until the very end. All rights reserved.

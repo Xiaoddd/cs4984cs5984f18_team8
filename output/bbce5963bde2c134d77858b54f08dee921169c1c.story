@@ -1,0 +1,1 @@
+Peaceful protest is a human right and police must show restraint.

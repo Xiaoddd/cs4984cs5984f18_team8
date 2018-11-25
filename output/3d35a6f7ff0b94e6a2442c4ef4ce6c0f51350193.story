@@ -1,0 +1,1 @@
+They hope President-elect Trump will undo the decision once he takes office next month. But Earnest disputed that, saying that the Army Corps alone was behind the decision. Sign up for our daily email.

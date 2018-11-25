@@ -1,0 +1,1 @@
+All rights reserved. Your California Privacy Rights. The New Yorker may earn a portion of sales from products and services that are purchased through links on our site as part of our affiliate partnerships with retailers.

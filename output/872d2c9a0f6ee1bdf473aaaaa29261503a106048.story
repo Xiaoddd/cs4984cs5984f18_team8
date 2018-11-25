@@ -1,0 +1,1 @@
+Thanks to Ruth Hopkins for images. Veterans are already arriving at camp.

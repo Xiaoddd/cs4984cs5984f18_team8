@@ -1,0 +1,3 @@
+moody 's email use semicolon to separate each address , limit to 20 addresses .
+try a new set send cancel email research thank you for your interest .
+you have reached the daily limit of research email sharings .

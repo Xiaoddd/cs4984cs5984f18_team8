@@ -1,0 +1,1 @@
+Many people were injured when, with temperatures below freezing, police deployed water canons, pepper spray, tear gas, rubber bullets and percussion grenades.

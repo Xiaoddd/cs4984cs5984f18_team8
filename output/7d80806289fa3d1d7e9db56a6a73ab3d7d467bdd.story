@@ -1,0 +1,1 @@
+Please note that the usage of concussion grenades is prohibited in Germany and is counted as an act against human rights. Same is true for using a water cannon at temperatures below freezing grades. Designbilder von konradlew. Powered by Blogger.

@@ -1,0 +1,1 @@
+All rights reserved. Like masonry column shift, but works. Values: true, false, undefined. Autodetection. Values: true, false, undefined. Moreover check min width of column.
