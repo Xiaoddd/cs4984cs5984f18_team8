@@ -90,7 +90,9 @@ def count_frequency_keyword_only(keywords, document):
 
 
 """ CONFIG """
-NoDAPL_file = "data/top100_bigger_corpus.json"
+# NoDAPL_file = "data/top100_bigger_corpus.json"
+# NoDAPL_file = "data/NoDAPLsmall.json"
+NoDAPL_file = "data/part-00000-66d9f78f-37f9-4dea-985c-6e2c040632ef-c000.json"
 stopwords_file = "data/stopwords_new.txt"
 stopwords_list = ["'s", '...', '-800', 'mr.', 'de', 'een', '-0800', 'www.senate.gov', "''", "``", "\\n", "'s", "'re", "the"]
 wikipage_link = 'https://en.wikipedia.org/wiki/NODAPL' # 'https://en.wikipedia.org/wiki/Dakota_Access_Pipeline'
@@ -108,8 +110,10 @@ with open(NoDAPL_file, 'r') as json_data:
     input_data = json.load(json_data)
     for sentence in input_data:
         # print sentence
-        clean.append(sentence['Sentences'][0])
+        # clean.append(sentence['Sentences'][0])
+        clean.append(sentence['Sentences'])
 json_data.close()
+print len(clean)
 
 input = list()
 for entry in clean:
@@ -169,9 +173,9 @@ for words in most_freq:
 pp.pprint(most_freq)
 # print(len(most_freq))
 
-
+# keywords = test_keywords
 keywords_synsets = list()
-
+print(keywords)
 for keyword in keywords:
     keyword_synsets = get_synsets(keyword)
     keywords_synsets.append(keyword_synsets)
@@ -197,7 +201,7 @@ for n in range(len(cleandata)):
 
         wordFreq[n][i] = freq
 
-print wordFreq
+print wordFreq.size
 
-numpy.save("features_1023", wordFreq)
-numpy.savetxt("wordFreq_1023.csv", wordFreq, delimiter=",")
+numpy.save("data/features_big.npy", wordFreq)
+numpy.savetxt("data/wordFreq_big.csv", wordFreq, delimiter=",")

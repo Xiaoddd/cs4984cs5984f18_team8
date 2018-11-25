@@ -1,5 +1,5 @@
 import spacy
-spacy.load('en')
+# spacy.load('en')
 from spacy.lang.en import English
 import numpy as np
 import nltk
@@ -48,7 +48,8 @@ def prepare_text_for_lda(text):
 if __name__=='__main__':
     en_stop = set(nltk.corpus.stopwords.words('english'))
     text_data = []
-    json_filename = 'data/NoDAPLsmall.json'
+    # json_filename = 'data/NoDAPLsmall.json'
+    json_filename = 'preprocessed/big_relevant.json'
     json_file = open(json_filename)
     json_str = json_file.read()
     json_data = json.loads(json_str)
@@ -66,13 +67,13 @@ if __name__=='__main__':
     # LDA
     NUM_TOPICS = 10
     ldamodel = gensim.models.ldamodel.LdaModel(corpus, num_topics = NUM_TOPICS, id2word=dictionary, passes=15)
-    ldamodel.save('model5.gensim')
+    ldamodel.save('model10.gensim')
     topics = ldamodel.print_topics(num_words=4)
     for topic in topics:
         print(topic)
     # visualization of LDA topics
     dictionary = gensim.corpora.Dictionary.load('dictionary.gensim')
     corpus = pickle.load(open('corpus.pkl', 'rb'))
-    lda = gensim.models.ldamodel.LdaModel.load('model5.gensim')
+    lda = gensim.models.ldamodel.LdaModel.load('model10.gensim')
     lda_display = pyLDAvis.gensim.prepare(lda, corpus, dictionary, sort_topics=False)
     pyLDAvis.show(lda_display)

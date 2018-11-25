@@ -19,7 +19,7 @@ topic_numbers = 5
 topic_ids = []
 doc_ids = []
 for n in range(topic_numbers):
-    doc_ids += genfromtxt('data/topics_ID/Topic' + str(n) + '.csv', dtype=int).tolist()
+    doc_ids += genfromtxt('preprocessed/Topics/Topic' + str(n) + '.csv', dtype=int).tolist()
     topic_ids += [n] * len(doc_ids)
 topics = dict(zip(doc_ids, topic_ids))
 
