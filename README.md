@@ -34,3 +34,11 @@ in Python 3: run `python3 -m http.server`
 and then open http://localhost:8000/attn_vis/ to view. It random displays an article in each page refresh.
 
 Note: The `SimpleHTTPServer` module has been merged into `http.server` in Python 3.0.
+
+## Requested orders to run
+- Run `python feature_extraction.py` to extract features from raw corpus for each document.
+- Run `python classification.py` to train the regularized logistic regression classifier and then classify the documents into relevant (1) and irrelevant (0).
+- Run `python preproc_lda.py` to train the LDA topic model and store the intermediate results.
+- Run `python topic_Clustering.py` to group the documents into different topics by using the trained LDA model.
+- Run `python LDA_sents_ranking.py` to rank the sentences within each topic and store the top-N sentences.
+- Run `python summary_initial.py` to rank the sentences within each topic and store the top-N sentences.
