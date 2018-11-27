@@ -13,3 +13,4 @@ pandas
 numpy
 pickle
 bs4
+csv
